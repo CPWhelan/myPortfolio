@@ -1,0 +1,14 @@
+vrtdion: 0.1
+
+phases:
+    build:
+        commands:
+           - echo Nothing to do yet
+
+artifacts:
+  files:
+        - index.html
+        - favicon.ico
+        - Resume - Colin Whelan.docx
+        - style/main.css
+        - images/*    
